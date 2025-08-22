@@ -1,9 +1,4 @@
-# Welcome to my GitHub page! 👋
-
-[![Website](https://img.shields.io/badge/Website-stentijhuis.nl-blue?style=for-the-badge&logo=globe)](https://www.stentijhuis.nl)
-[![GitHub followers](https://img.shields.io/github/followers/stensel8?style=for-the-badge&logo=github)](https://github.com/stensel8)
-![Profile Views](https://komarev.com/ghpvc/?username=stensel8&color=blueviolet&style=for-the-badge)
-[![Privacy First](https://img.shields.io/badge/Privacy-First-red?style=for-the-badge&logo=shield)](https://github.com/stensel8)
+# Welcome to my GitHub page! 
 
 Guy with a focus on **Cloud**, **Cybersecurity**, and **IT infrastructure**. I'm passionate about **privacy**, **security**, and keeping systems safe. I'm no hardcore coder or programmer - I care more about building, maintaining and securing the systems behind the scenes.
 
