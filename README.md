@@ -1,6 +1,6 @@
 # Welcome to my GitHub page! 
 
-Guy with a focus on **Cloud**, **Cybersecurity**, and **IT infrastructure**. I'm passionate about **privacy**, **security**, and keeping systems safe. I'm no hardcore coder or programmer - I care more about building, maintaining and securing the systems behind the scenes.
+I'm passionate about **privacy**, **security**, and keeping systems safe. I'm no hardcore coder or programmer - I care more about building, patching, maintaining and securing the systems behind the scenes.
 
 ## 🛠️ Technologies I use
 
