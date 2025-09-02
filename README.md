@@ -59,6 +59,7 @@ Thanks to my MBO4 background and hands-on experience in system administration, I
 
 ### 📫 Connect with me
 - LinkedIn: [Sten Tijhuis](https://www.linkedin.com/in/sten-tijhuis/)
+- E-mail:   [info@stentijhuis.nl](mailto:info@stentijhuis.nl)
 - Location: Hengelo, Overijssel, Netherlands
 
 ## 📊 GitHub Stats
@@ -121,6 +122,7 @@ Door mijn mbo4-achtergrond en praktijkervaring in systeembeheer kan ik effectiev
 
 ### 📫 Neem contact op
 - LinkedIn: [Sten Tijhuis](https://www.linkedin.com/in/sten-tijhuis/)
+- E-mail:   [info@stentijhuis.nl](mailto:info@stentijhuis.nl)
 - Locatie: Hengelo, Overijssel, Nederland
 
 ## 📊 GitHub Statistieken
