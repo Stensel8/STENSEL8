@@ -27,10 +27,3 @@ My focus is on **privacy**, **security**, and robust system management. I'm not 
 ### 📊 GitHub Stats
 ![Stensel8's GitHub stats](https://github-readme-stats.vercel.app/api?username=stensel8&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stensel8&layout=compact&theme=dark&hide_border=true)
-
-### 📫 Connect
-- LinkedIn: [Sten Tijhuis](https://www.linkedin.com/in/sten-tijhuis/)
-- Email: [info@stentijhuis.nl](mailto:info@stentijhuis.nl)
-- Location: :netherlands: Netherlands
-
-⭐️ *Feel free to follow or contribute*
