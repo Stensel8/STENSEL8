@@ -7,12 +7,12 @@ At this time, I'm not open to new, unknown connections or recruitment; for busin
 My focus is on **privacy**, **security**, and robust system management. I'm not a hardcore coder - I care more about building, patching, maintaining, and securing the systems behind the scenes.
 
 ### 🔧 Tech 
-
-#### Core Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AtlasOS](https://img.shields.io/badge/AtlasOS-0078D4?style=for-the-badge&logo=atlasos&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -23,12 +23,6 @@ My focus is on **privacy**, **security**, and robust system management. I'm not 
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-AA5CC3?style=for-the-badge&logo=jellyfin&logoColor=white)
 ![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=immich&logoColor=white)
-
-#### Current Focus
-- Microsoft Endpoint Management & Automation
-- Cloud & Cybersecurity
-- PowerShell
-- Linux
 
 ### 📊 GitHub Stats
 ![Stensel8's GitHub stats](https://github-readme-stats.vercel.app/api?username=stensel8&show_icons=true&theme=dark&hide_border=true)
