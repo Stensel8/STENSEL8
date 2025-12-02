@@ -2,9 +2,7 @@
 
 From a young age, I've been fascinated by technology. When I was 12, I took apart my Nintendo gaming console to discover how it worked. Not long after, I repaired my father's laptop, which further fueled my passion for ICT. I'm currently studying ICT at Saxion University of Applied Sciences with a focus on Cloud & Cybersecurity, and I have in-depth knowledge of Windows and Linux systems.
 
-At this time, I'm not open to new, unknown connections or recruitment; for business matters, you can of course contact me.
-
-My focus is on **privacy**, **security**, and robust system management. I'm not a hardcore coder - I care more about building, patching, maintaining, and securing the systems behind the scenes.
+My main focus is on **privacy** and **security**, I'm not a hardcore coder - I care more about building, patching, maintaining, and securing the systems/infrastructures behind the scenes.
 
 ### 🔧 Tech 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -23,7 +21,3 @@ My focus is on **privacy**, **security**, and robust system management. I'm not 
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-AA5CC3?style=for-the-badge&logo=jellyfin&logoColor=white)
 ![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=immich&logoColor=white)
-
-### 📊 GitHub Stats
-![Stensel8's GitHub stats](https://github-readme-stats.vercel.app/api?username=stensel8&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stensel8&layout=compact&theme=dark&hide_border=true)
