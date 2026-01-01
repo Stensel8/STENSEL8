@@ -1,6 +1,6 @@
 ### About Me
 
-From a young age, I've been fascinated by technology. When I was 12, I took apart my Nintendo gaming console to discover how it worked. Not long after, I repaired my father's laptop, which further fueled my passion for ICT. I'm currently studying ICT at Saxion University of Applied Sciences with a focus on Cloud & Cybersecurity, and I have in-depth knowledge of Windows and Linux systems.
+From a young age, I've been fascinated by technology. When I was 12, I took apart my Nintendo gaming console to discover how it worked. Not long after, I repaired my father's laptop, which further fueled my passion for ICT. I am currently studying IT at Saxion University, specializing in Cloud & Cybersecurity, with strong hands-on knowledge of both Windows and Linux systems.
 
 My main focus is on **privacy** and **security**, I'm not a hardcore coder - I care more about building, patching, maintaining, and securing the systems/infrastructures behind the scenes.
 
