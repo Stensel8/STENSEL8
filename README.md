@@ -9,7 +9,7 @@ I'm currently a third-year HBO-ICT student at Saxion, specializing in Cloud & Cy
 ### 🔧 Tech 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Angie](https://img.shields.io/badge/Angie-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://angie.software/)
@@ -19,5 +19,3 @@ I'm currently a third-year HBO-ICT student at Saxion, specializing in Cloud & Cy
 [![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-AA5CC3?style=for-the-badge&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
 [![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=immich&logoColor=white)](https://immich.app/)
-
-
