@@ -45,7 +45,7 @@ In my spare time, I tinker with Linux systems and enjoy helping people around me
 [![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=immich&logoColor=white)](https://immich.app/)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/)
 [![Bunny.net](https://img.shields.io/badge/Bunny.net-FF6633?style=for-the-badge&logo=bunnydotnet&logoColor=white)](https://bunny.net?ref=khe29wrodu)
-[![mijn.host](https://img.shields.io/badge/mijn.host-00A6E0?style=for-the-badge&logo=server&logoColor=white)](https://mijn.host/?maff=180fde60f4)
+[![mijn.host](https://img.shields.io/badge/mijn.host-00A6E0?style=for-the-badge&logo=server&logoColor=white)](https://mijn.host/)
 
 ### 🌐 Also take a look at
 
