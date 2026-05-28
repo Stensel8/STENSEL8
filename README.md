@@ -37,7 +37,7 @@ In my spare time, I tinker with Linux systems and enjoy helping people around me
 [![Angie](https://img.shields.io/badge/Angie-2C5F8A?style=for-the-badge&logo=nginx&logoColor=white)](https://angie.software/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.org/)
-[![Proton](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me/)
+[![Proton](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](https://pr.tn/ref/GKSK0GMX)
 [![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
 [![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
